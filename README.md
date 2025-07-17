@@ -1,4 +1,4 @@
-# MSI Afterburner Unlock Advanced Settings
+# MSI Afterburner Unlock Advanced Settings (Work only in 4.6.6 beta version)
 
 These `MSIAfterburner.dat` and `MSIAfterburner.oem` files are the original but already decrypted files from MSI Afterburner 4.6.6 beta. This means you can edit more setting within them.
 
