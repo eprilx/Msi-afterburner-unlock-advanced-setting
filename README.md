@@ -10,6 +10,7 @@ To use them, simply replace the original files located in `C:\Program Files (x86
 
 * Open the `MSIAfterburner.dat` file.
 * Set `IgnoreMemoryClockBoostLimits = 1` and `MemoryClockBoostMax = 9000000` or any number you want.
+* Set `IgnoreMemoryClkLimits = 1` and `MemClkMax = 300%` or any number you want.
 * Replace the original file and restart the application.
 
 
